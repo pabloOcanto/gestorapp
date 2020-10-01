@@ -1,0 +1,9 @@
+{
+  "name": "Buenos Aires",
+  "type": "place",
+  "center": "9.1735:-83.3165",
+  "context": [
+    { "type": "region", "name": "Puntarenas", "center": "9.96667:-84.83333" },
+    { "type": "country", "name": "Costa Rica", "center": "10.2577944410312:-84.2009147613538" }
+  ]
+}

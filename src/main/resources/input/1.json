@@ -1,0 +1,9 @@
+{
+  "name": "Newark",
+  "type": "place",
+  "center": "40.7357:-74.1724",
+  "context": [
+    { "type": "region", "name": "New Jersey", "center": "40.1502478924:-74.3893168105238" },
+    { "type": "country", "name": "United States", "center": "39.3812661305678:-97.9222112121185" }
+  ]
+}

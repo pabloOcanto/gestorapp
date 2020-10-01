@@ -1,0 +1,9 @@
+{
+  "name": "San Justo",
+  "type": "place",
+  "center": "-34.68333:-58.55",
+  "context": [
+    { "type": "region", "name": "Buenos Aires", "center": "-34.5997:-58.38194" },
+    { "type": "country", "name": "Argentina", "center": "-36.252002:-63.954193" }
+  ]
+}
